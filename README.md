@@ -10,6 +10,7 @@ Random texts...
 testing to see the use of branching 
  ## writing a program 
  on if statements 
- ## writimg a program
- to fimd the largest number
+## Useed a module
+used a module to write a program to find the maximum number
+
  
