@@ -30,3 +30,16 @@ for number in 30,22,40,23,54,11,23,54,5,76,10,23,91,27:
 print(digits)
     
 
+# calling from package (ecommerce) shipping function
+from ecommerce.shipping import cal_shipping
+
+
+cal_shipping()
+
+import utils
+
+highest_number = utils.find_max(numbers)
+print (highest_number)
+
+dice = utils.Dice
+print(dice.roll())
